@@ -1,6 +1,6 @@
 # Summary
-- [学习指南](./chapter_0.md)
-- [USB驱动开发](./chapter_3.0.md)
+- [学习指南](./chapter_0.0.md)
+- [USB驱动开发](./chapter_1.0.md)
   - [以树莓派为例](./chapter_1.1.md)
   - [一：PCIe ](./chapter_1.2.md)
   - [二：USB](./chapter_1.3.md)
